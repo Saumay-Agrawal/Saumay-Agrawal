@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Saumay-Agrawal/Saumay-Agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Saumay 👋
+
+📍 **India** | 🤖 **Builder-Developer** | 🚀 **Experimenting at the intersection of tech and biz**
+
+> Building in Web3 space since 2020. Currently adapting to the vibe-engineering paradigm. Always learning, growing and shipping!
+
+Procrastinating on building this README bit by bit, check back again soon! ;)
