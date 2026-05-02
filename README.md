@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 > Building in Web3 space since 2020. Currently adapting to the vibe-engineering paradigm. Always learning, growing and shipping!
 
-Procrastinating on building this README bit by bit, check back again soon! ;)
+Building this README bit by bit, check back again soon!
+
+For now, please visit [saumay.xyz](http://saumay.xyz/) for more info. 
+
+Amaze, amaze, amaze! 👎
